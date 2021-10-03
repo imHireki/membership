@@ -27,6 +27,7 @@ INSTALLED_APPS = [
 
     # Apps
     'apps.account',
+    'apps.course',
 ]
 
 MIDDLEWARE = [
